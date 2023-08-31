@@ -1,2 +1,2 @@
 # 2Remote-repo
-Checking purpose
+Checking Purpose
